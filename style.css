@@ -1,4 +1,15 @@
-body{
+body {
     background-color: black;
-    color:white;}
-    p{color:red}
+    color: white;
+}
+
+section{
+    background: #b89cd5;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
+}
